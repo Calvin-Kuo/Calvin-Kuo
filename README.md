@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/Calvin-Kuo/Calvin-Kuo/master/Calvin ReadMe Welcome.gif" alt="👋 Hi! I am (Calvin)" title="👋 Hi! I'm (Calvin)"/>
+[<img src="https://raw.githubusercontent.com/Calvin-Kuo/Calvin-Kuo/master/Calvin ReadMe Welcome.gif" alt="👋 Hi! I am (Calvin)" title="👋 Hi! I'm (Calvin)"/>](https://calvin-kuo.github.io/calvinkuo/)
 
-# Hi! I am Calvin. 👋
+# Learn more about me 👋
 
 🚀 Senior System Engineering Manager at AT&T | Customer-Centric Product Builder  
 📈 Passionate about AI/ML, Cloud, and Data Platforms  
