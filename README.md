@@ -10,12 +10,12 @@
 <!--
     Header Animated Banner
 -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=header" alt="header"/>
+[<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=01C101&section=header" alt="header"/>](https://calvin-kuo.github.io/calvinkuo/)
 
 <!--
     Welcome Animation
 -->
-[<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mona+Sans&weight=700&size=50&duration=3210&pause=1000&color=01C101&vCenter=true&width=1000&lines=Hi%2C+I'm+Calvin.;Welcome+to+my+corner+of+the+internet!" alt="Typing SVG" /></a>](https://calvin-kuo.github.io/calvinkuo/)
+[<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mona+Sans&weight=700&size=50&duration=3210&pause=1000&color=01C101&vCenter=true&width=1000&lines=Hi%2C+I'm+Calvin.;Welcome+to+my+corner+of+the+internet!" alt="Hi, I'm Calvin" /></a>](https://calvin-kuo.github.io/calvinkuo/)
 
 # Learn more about me 👋
 
@@ -41,7 +41,7 @@ I design and deliver scalable AI and data products that power millions of users 
 <!--
     Footer Animated Banner
 -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" alt="header"/> 
+[<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=01C101&section=footer" alt="header"/>](https://calvin-kuo.github.io/calvinkuo/) 
 
 <!--
 **Calvin-Kuo/Calvin-Kuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
