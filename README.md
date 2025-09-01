@@ -1,10 +1,12 @@
-[<img src="https://raw.githubusercontent.com/Calvin-Kuo/Calvin-Kuo/master/Calvin ReadMe Welcome.gif" alt="👋 Hi! I am (Calvin)" title="👋 Hi! I'm (Calvin)"/>](https://calvin-kuo.github.io/calvinkuo/)
+[<img src="https://raw.githubusercontent.com/Calvin-Kuo/Calvin-Kuo/master/Calvin ReadMe Welcome.gif" alt="👋 Hi! I am Calvin." title="🌐 Enter Calvin's Website"/>](https://calvin-kuo.github.io/calvinkuo/)
 
 # Learn more about me 👋
 
 🚀 Senior System Engineering Manager at AT&T | Customer-Centric Product Builder  
 📈 Passionate about AI/ML, Cloud, and Data Platforms  
 💡 Currently working on agentic AI for network analysis
+
+I design and deliver scalable AI and data products that power millions of users and billions of records daily. My career bridges **engineering depth** and **product leadership**, with a track record of driving outcomes at the intersection of **AI/ML, cloud platforms, and network intelligence**.  
 
 ## 🛠️ Core Expertise  
 
