@@ -1,4 +1,21 @@
-[<img src="https://raw.githubusercontent.com/Calvin-Kuo/Calvin-Kuo/master/Calvin ReadMe Welcome.gif" alt="👋 Hi! I am Calvin." title="🌐 Enter Calvin's Website"/>](https://calvin-kuo.github.io/calvinkuo/)
+<!--
+    Hi, I am Calvin Kuo.
+    I am happy to see you here exploring my README markdown code.
+    Do not hesitate to use this as inspiration!
+    
+    If you find this inspiring, you can follow me with just a click!
+    You may also want to connect with me on LinkedIn @calvin-y-kuo.
+-->
+
+<!--
+    Header Animated Banner
+-->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=header" alt="header"/>
+
+<!--
+    Welcome Animation
+-->
+[<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Menlo&weight=500&size=50&duration=3210&pause=1000&color=01C101&vCenter=true&width=1000&lines=Hi,+I'm+Calvin.;Welcome+to+my+GitHub!" alt="Typing SVG" /></a>](https://calvin-kuo.github.io/calvinkuo/)
 
 # Learn more about me 👋
 
@@ -8,7 +25,7 @@
 
 I design and deliver scalable AI and data products that power millions of users and billions of records daily. My career bridges **engineering depth** and **product leadership**, with a track record of driving outcomes at the intersection of **AI/ML, cloud platforms, and network intelligence**.  
 
-## 🛠️ Core Expertise  
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"> Core Expertise
 
 - **Product Management**: Roadmapping, product discovery, stakeholder alignment, go-to-market strategy  
 - **AI/ML**: LLMs (NLP, GraphRAG), agentic AI
@@ -18,8 +35,13 @@ I design and deliver scalable AI and data products that power millions of users 
 
 ## 🤝 Let’s Connect  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/calvin-y-kuo/)  
+[<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="35">](https://www.linkedin.com/in/calvin-y-kuo/)
 - 🌐 [Portfolio](https://calvin-kuo.github.io/calvinkuo/)
+
+<!--
+    Footer Animated Banner
+-->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" alt="header"/> 
 
 <!--
 **Calvin-Kuo/Calvin-Kuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
