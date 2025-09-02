@@ -16,9 +16,12 @@
 <!--
     Welcome Animation
 -->
-[<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mona+Sans&weight=700&size=50&duration=3210&pause=1000&color=01C101&vCenter=false&width=1000&lines=Hi%2C+I'm+Calvin.;Welcome+to+my+corner+of+the+internet!" alt="Hi, I'm Calvin" /></a>](https://calvin-kuo.github.io/calvinkuo/)
+[<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mona+Sans&weight=700&size=50&duration=3210&pause=1000&color=01C101&vCenter=true&width=1000&lines=Hi%2C+I'm+Calvin.;Welcome+to+my+corner+of+the+internet!" alt="Hi, I'm Calvin" /></a>](https://calvin-kuo.github.io/calvinkuo/)
 
-# <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="30">&nbsp; Learn more about me
+<!--
+    Learn More About Me Section
+-->
+# [<img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="30">](https://calvin-kuo.github.io/calvinkuo/)&nbsp; Learn More About Me
 
 🚀 Senior System Engineering Manager at AT&T | Customer-Centric Product Builder  
 📈 Passionate about AI/ML, Cloud, and Data Platforms  
@@ -26,7 +29,10 @@
 
 I design and deliver scalable AI and data products that power millions of users and billions of records daily. My career bridges **engineering depth** and **product leadership**, with a track record of driving outcomes at the intersection of **AI/ML, cloud platforms, and network intelligence**.   
 
-# <img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" width="30">&nbsp; Core Competencies
+<!--
+    Core Competencies Section
+-->
+# [<img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" width="30">](https://calvin-kuo.github.io/calvinkuo/resume)&nbsp; Core Competencies
 
 - **Product Management**: Roadmapping, product discovery, stakeholder alignment, go-to-market strategy, design-thinking
 - **Leadership**: Cross-functional collaboration, cost optimization, vendor partnerships, team enablement
@@ -37,7 +43,10 @@ I design and deliver scalable AI and data products that power millions of users 
 
 [![My Skills](https://skillicons.dev/icons?i=apple,windows,aws,azure,blender,c,cs,cpp,css,html,discord,docker,kubernetes,kafka,mysql,eclipse,vscode,visualstudio,unity,figma,git,github,idea,py,java,ts,javascript,nodejs,react,jenkins)](https://calvin-kuo.github.io/calvinkuo/resume)
 
-# <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/bba47def-6b97-4489-9433-fbff5b588031" width="30">&nbsp; Let’s Connect  
+<!--
+    Let's Connect Section
+-->
+# [<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/bba47def-6b97-4489-9433-fbff5b588031" width="30">](https://calvin-kuo.github.io/calvinkuo/contact)&nbsp; Let’s Connect
 
 **Website:**&nbsp; [<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">](https://calvin-kuo.github.io/calvinkuo/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Email:**&nbsp; [<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f564d9a-467a-4bba-ad3a-8527c8ab79ae" width="30">](https://calvin-kuo.github.io/calvinkuo/contact)
