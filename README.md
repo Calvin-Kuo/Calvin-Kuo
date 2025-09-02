@@ -4,7 +4,8 @@
     Do not hesitate to use this as inspiration!
     
     If you find this inspiring, you can follow me with just a click!
-    You may also want to connect with me on LinkedIn @calvin-y-kuo.
+    I also have a personal website: https://calvin-kuo.github.io/calvinkuo/
+    You may also want to connect with me on LinkedIn: calvin-y-kuo.
 -->
 
 <!--
@@ -27,16 +28,20 @@ I design and deliver scalable AI and data products that power millions of users 
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"> Core Expertise
 
-- **Product Management**: Roadmapping, product discovery, stakeholder alignment, go-to-market strategy  
+- **Product Management**: Roadmapping, product discovery, stakeholder alignment, go-to-market strategy, design-thinking
+- **Leadership**: Cross-functional collaboration, cost optimization, vendor partnerships, team enablement
+- **Agile Workflow**: Scrum, Jira, Confluence, SharePoint
 - **AI/ML**: LLMs (NLP, GraphRAG), agentic AI
-- **Cloud & Data**: Azure, AWS, GCP, Databricks, Snowflake, Kafka, ETL pipelines  
-- **Systems at Scale**: High-throughput data ingestion, telemetry contextualization, knowledge graph enrichment, anomaly detection  
-- **Leadership**: Cross-functional collaboration, cost optimization, vendor partnerships, team enablement  
+- **Data**: Data warehouse (Snowflake), data lakehouse (Databricks), ETL pipelines  
+- **Systems at Scale**: High-throughput data ingestion, telemetry contextualization, knowledge graph enrichment, anomaly detection
 
-## 🤝 Let’s Connect  
+[![My Skills](https://skillicons.dev/icons?i=apple,windows,aws,azure,blender,c,cs,cpp,css,html,discord,docker,kubernetes,kafka,mysql,eclipse,vscode,visualstudio,unity,figma,git,github,idea,py,java,ts,javascript,nodejs,react,jenkins)](https://calvin-kuo.github.io/calvinkuo/resume)
 
-[<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="35">](https://www.linkedin.com/in/calvin-y-kuo/)
-- 🌐 [Portfolio](https://calvin-kuo.github.io/calvinkuo/)
+## <img src=""> Let’s Connect  
+
+LinkedIn:[<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="35">](https://www.linkedin.com/in/calvin-y-kuo/)
+Website:[<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35">](https://calvin-kuo.github.io/calvinkuo/)
+
 
 <!--
     Footer Animated Banner
