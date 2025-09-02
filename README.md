@@ -16,7 +16,7 @@
 <!--
     Welcome Animation
 -->
-[<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mona+Sans&weight=700&size=50&duration=3210&pause=1000&color=01C101&vCenter=true&width=1000&lines=Hi%2C+I'm+Calvin.;Welcome+to+my+corner+of+the+internet!" alt="Hi, I'm Calvin" /></a>](https://calvin-kuo.github.io/calvinkuo/)
+[<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mona+Sans&weight=700&size=50&duration=3210&pause=1000&color=01C101&vCenter=false&width=1000&lines=Hi%2C+I'm+Calvin.;Welcome+to+my+corner+of+the+internet!" alt="Hi, I'm Calvin" /></a>](https://calvin-kuo.github.io/calvinkuo/)
 
 # <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="30">&nbsp; Learn more about me
 
