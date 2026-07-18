@@ -23,7 +23,7 @@
 -->
 # [<img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="30">](https://calvin-kuo.github.io/calvinkuo/)&nbsp; Learn More About Me
 
-🚀 Senior System Engineering Manager at AT&T | Customer-Centric Product Builder  
+🚀 Senior Product Manager at AT&T | Customer-Centric Product Builder  
 📈 Passionate about AI/ML, Cloud, and Data Platforms  
 💡 Currently working on agentic AI for network analysis
 
